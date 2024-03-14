@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewReaderCh10</string>
+
+    <string name="item_pub_date">Published: Mon 21 March 2022</string>
+    <string name="item_title">Item title</string>
+    <string name="item_description">Item description</string>
+    <string name="item_link">Read more on the web</string>
+</resources>
